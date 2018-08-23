@@ -1,5 +1,3 @@
-include: "/app_marketing_analytics_config/adwords_config.view"
-
 include: "criteria_base.view"
 
 explore: age_range_adapter {
